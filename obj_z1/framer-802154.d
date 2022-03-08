@@ -1,0 +1,21 @@
+obj_z1/framer-802154.o: \
+ /home/mehrdad/Desktop/contiki-2.x/core/net/mac/framer-802154.c \
+ /home/mehrdad/Desktop/contiki-2.x/core/./net/mac/framer-802154.h \
+ /home/mehrdad/Desktop/contiki-2.x/core/./net/mac/framer.h \
+ /home/mehrdad/Desktop/contiki-2.x/core/./net/mac/frame802154.h \
+ /home/mehrdad/Desktop/contiki-2.x/platform/z1/./contiki-conf.h \
+ /home/mehrdad/Desktop/contiki-2.x/platform/z1/./platform-conf.h \
+ /home/mehrdad/Desktop/contiki-2.x/cpu/msp430/./msp430def.h \
+ /home/mehrdad/Desktop/contiki-2.x/core/./net/rime/rimeaddr.h \
+ /home/mehrdad/Desktop/contiki-2.x/core/./net/packetbuf.h \
+ /home/mehrdad/Desktop/contiki-2.x/core/./lib/random.h
+ /home/mehrdad/Desktop/contiki-2.x/core/net/mac/framer-802154.c :
+ /home/mehrdad/Desktop/contiki-2.x/core/./net/mac/framer-802154.h :
+ /home/mehrdad/Desktop/contiki-2.x/core/./net/mac/framer.h :
+ /home/mehrdad/Desktop/contiki-2.x/core/./net/mac/frame802154.h :
+ /home/mehrdad/Desktop/contiki-2.x/platform/z1/./contiki-conf.h :
+ /home/mehrdad/Desktop/contiki-2.x/platform/z1/./platform-conf.h :
+ /home/mehrdad/Desktop/contiki-2.x/cpu/msp430/./msp430def.h :
+ /home/mehrdad/Desktop/contiki-2.x/core/./net/rime/rimeaddr.h :
+ /home/mehrdad/Desktop/contiki-2.x/core/./net/packetbuf.h :
+ /home/mehrdad/Desktop/contiki-2.x/core/./lib/random.h :
